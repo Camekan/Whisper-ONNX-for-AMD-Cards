@@ -1,7 +1,7 @@
 @echo off
 title Whisper ONNX Transcriber
 echo =======================================================
-echo    Starting Whisper ONNX Transcriber...
+echo        Starting Whisper ONNX Transcriber...
 echo =======================================================
 echo.
 
@@ -18,4 +18,5 @@ python 31.py
 start http://127.0.0.1:7860
 
 :: Step 5: Keep the window open if there's an error so you can read it
+
 pause
