@@ -1,6 +1,7 @@
 🎙️ Whisper ONNX Transcriber Setup
 
 You can easily run Whisper ONNX locally using this script. Follow these simple steps to get started:
+
 📥 1. Download the AI Models
 
 Create a new folder for your project. Then, go to the Hugging Face repository and download the following three files directly into that folder: https://huggingface.co/onnx-community/whisper-large-v3-turbo/tree/main/onnx
